@@ -1,0 +1,18 @@
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+venv/
+.env
+data/powerbi/
+/*.pptx
+/*.docx
+/Dutch_Electricity_Demand_Forecasting_2030_Final/
+/Power BI/Dashboard_v1.pbix
+/data/raw/Eurostat Archive/
+/data/raw/nrg_cb_e_custom_23126586_spreadsheet.xlsx
+~$*
+/notebooks/01_data_exploration_cleaning_preparation.ipynb
+/notebooks/02_electricity_demand_forecastingV1.ipynb
+/notebooks/02_electricity_demand_forecasting_V2.ipynb
+/notebooks/02_electricity_demand_forecasting_V3.ipynb
+/notebooks/02_electricity_demand_forecasting_V4.ipynb
